@@ -34,7 +34,7 @@ One thing that troubled me with Android Studio was getting the emulator setup in
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Trevor Thorn]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
